@@ -1,16 +1,17 @@
-## Hi there 👋
+<img src=''/>
 
-<!--
-**GuitarDev-Felipe/GuitarDev-Felipe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🧙‍♂️ Felipe Passos, the GuitarDev
+## Type: Legendary Human Developer — Musician Engineer
 
-Here are some ideas to get you started:
+### Abilities
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Casts clean code with backend strength and React agility  
+🎸 Taps into blues riffs to restore focus and vibe  
+☕ Gains +1 productivity while drinking coffee  
+🧠 Explores dungeons of logic and architecture
+
+---
+
+**When a Guitar artifact enters the battlefield, GuitarDev gains rapid fingers and incredible feel.**  
+**If a project is on the battlefield, GuitarDev gains haste, trample, indestructible, and double strike.**  
+**GuitarDev can't be targeted by bugs and has immunity to technical debt and late goals.**
