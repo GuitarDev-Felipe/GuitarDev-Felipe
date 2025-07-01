@@ -1,4 +1,4 @@
-<img src=''/>
+<img src='https://github.com/GuitarDev-Felipe/GuitarDev-Felipe/blob/main/The%20GuitarDev.png' width="400" height="400"/>
 
 # 🧙‍♂️ Felipe Passos, the GuitarDev
 ## Type: Legendary Human Developer — Musician Engineer
